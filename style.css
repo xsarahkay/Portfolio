@@ -86,3 +86,9 @@ a.font-black{
 #project .card-title {
     font-weight: bold;
 }
+
+video {
+    width: 100%;
+    height: 300px;
+    background-color: b;
+}
